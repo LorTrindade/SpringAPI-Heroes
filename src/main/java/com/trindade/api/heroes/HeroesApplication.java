@@ -1,13 +1,13 @@
-package com.trindade.swapi.starwars;
+package com.trindade.api.heroes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StarwarsApplication {
+public class HeroesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StarwarsApplication.class, args);
+		SpringApplication.run(HeroesApplication.class, args);
 	}
 
 }

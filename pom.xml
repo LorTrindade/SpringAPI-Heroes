@@ -8,11 +8,11 @@
 		<version>2.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.trindade.swapi</groupId>
-	<artifactId>starwars</artifactId>
+	<groupId>com.trindade.heroes</groupId>
+	<artifactId>heroes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>starwars</name>
-	<description>Consumindo SWAPI usando os princípios de Clean Architecture</description>
+	<name>heroes</name>
+	<description>Consuming hero API using the principles of Clean Architecture</description>
 
 	<properties>
 		<java.version>11</java.version>
